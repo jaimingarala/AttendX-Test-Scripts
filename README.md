@@ -29,3 +29,8 @@ QA engineers to collaborate without overwriting each other's work.
 These scripts simulate application behavior and are examples
 for the version-control practical. They are not integrated
 with a live AttendX application.
+
+## Collaboration Notes
+- All test script changes should be committed to Git.
+- Pull the latest changes before starting new work.
+- Use meaningful commit messages for traceability.
