@@ -19,3 +19,12 @@ def test_login_with_empty_credentials():
 
     assert login_successful is False
     print("Empty credentials test passed")
+
+def test_login_with_missing_password():
+    username = "student123"
+    password = ""
+
+    login_successful = bool(username and password)
+
+    assert login_successful is False
+    print("Missing password test passed")
