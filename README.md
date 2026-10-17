@@ -33,4 +33,4 @@ with a live AttendX application.
 ## Collaboration Notes
 - All test script changes should be committed to Git.
 - Pull the latest changes before starting new work.
-- Use meaningful commit messages for traceability.
+- Use meaningful commit message for traceability.
